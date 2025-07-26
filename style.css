@@ -1,0 +1,88 @@
+#firststdiv{
+    height: 700px;
+    background-image: url(./Rectangle\ 3.png);
+    background-size: cover;
+}
+.custom-column{
+    height: 500px;
+}
+.custom-column h2{
+    padding-top: 20px;
+    padding-left: 70px;
+}
+.custom-column h1{
+    padding-left: 70px;
+    font-size: 50px;
+}
+.getstarted button{
+    margin-top: 30px;
+    margin-left: 70px;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+}
+.logo{
+    padding-top: 10px;
+    margin-left: 150px;
+    /* padding-left: 700px; */
+    /* padding-bottom: 500px; */
+}
+/* .group5{
+    padding-left: 200px;
+    padding-top: 80px;
+} */
+/* .group7{
+    padding-top: 10px;
+} */
+ .group5{
+    margin-left: 150px;
+    margin-top: 100px;
+ }
+ .group7{
+    margin-left: 150px;
+    margin-top: 150px;
+ }
+ .getstarted{
+    display: flex;
+    justify-content: space-between;
+ }
+.group9{
+    margin-top: -67px;
+}
+.seconddiv{
+    display: flex;
+    height: 750px;
+    background-color: aquamarine;
+}
+.seconddivheading{
+    display: flex;
+    font-size: 35px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+.seconddivfirstimage{
+    width: 400px;
+    height: 372px;
+    margin-top: 39px;
+    margin-left: 35px;
+    /* width: 600px;
+    height: 350px;
+    margin-left: 35px;
+    margin-top: 100px; */
+    /* padding-left: 50px; */
+    /* size: 400px; */
+}
+#leftseconddiv{
+    display: flex;
+    flex-direction: column;
+    padding-right: px;
+}
+.seconddivsecondimage{
+    margin-top: -171px;
+    margin-left: 185px;
+}
+/* .rightseconddiv{
+    width: 619px;
+    height: 288px;
+} */
+ 
