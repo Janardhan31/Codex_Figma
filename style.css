@@ -50,39 +50,39 @@
     margin-top: -67px;
 }
 .seconddiv{
-    display: flex;
-    height: 750px;
-    background-color: aquamarine;
+    height: 780px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
 }
-.seconddivheading{
-    display: flex;
-    font-size: 35px;
-    padding-top: 50px;
-    margin-left: 50px;
+.seconddiv h1{
+    padding-top: 60px;
+    padding-left: 63.58px;
 }
-.seconddivfirstimage{
-    width: 400px;
-    height: 372px;
-    margin-top: 39px;
-    margin-left: 35px;
-    /* width: 600px;
-    height: 350px;
-    margin-left: 35px;
-    margin-top: 100px; */
-    /* padding-left: 50px; */
-    /* size: 400px; */
+#teamsimg img{
+    width: 393px;
+    height: 404px;
+    margin-left: 100px;
 }
-#leftseconddiv{
-    display: flex;
-    flex-direction: column;
-    padding-right: px;
+#aboutcompanyimg img{
+    margin-left: -229px;
+    margin-top: 230px;
+    height: 404px;
+    width: 393px;
 }
-.seconddivsecondimage{
-    margin-top: -171px;
-    margin-left: 185px;
+.para{
+    background-image: url(./Span.png);
+    background-size: cover;
+    width: 800px;
+    border: 2px solid black;
 }
-/* .rightseconddiv{
-    width: 619px;
-    height: 288px;
-} */
- 
+.firstpara{
+        margin-left: 50px;
+    padding-top: 151px;
+}
+.secondpara{
+    margin-top: 70px;
+    padding-left: 110px;
+}
+.fontsizeofpara{
+    font-size: 20px;
+}
