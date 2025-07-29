@@ -98,7 +98,7 @@
     background-size: cover;
 }
 .thirddiv{
-    height: 600px;
+    height: 700px;
     background-image: url("./Rectangle\ 3.png");
     background-size: cover;
 }
@@ -136,9 +136,41 @@
     border-radius: 0px;
  } */
   .card {
-  border-radius: 0 !important;
+  /* border-radius: 0 !important; */
+  border: 4px solid grey;
+  /* padding-left: 88px; */
 }
 
 .card img {
   border-radius: 0 !important;
 }
+.fourthdiv{
+    height: 900px;
+    background-color: rgb(255, 255, 255);
+}
+.ourproceess{
+    padding-top: 58px;   
+}
+.bluecircle img{
+    padding-top: 9px;
+    height: 110px;
+    padding-left: 106px;
+    /* background-image: url("./1.png"); */
+}
+.one img{
+    height: 76px;
+    margin-left: 28px;
+    margin-top: -143px;
+}
+.two img{
+    margin-left: 129px;
+    margin-top: -141px;
+}
+/* .card1{
+    margin-right: 100px;
+} */
+ .cardsinfourthdiv{
+    margin-top: 50px;
+    /* margin-bottom: 100px; */
+ }
+
