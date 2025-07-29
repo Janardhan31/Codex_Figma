@@ -64,16 +64,22 @@
     margin-left: 100px;
 }
 #aboutcompanyimg img{
+    /* z-index: 2; */
+    position: absolute;
+    z-index: 2;
     margin-left: -229px;
     margin-top: 230px;
     height: 404px;
     width: 393px;
 }
 .para{
-    background-image: url(./Span.png);
+    background-image: url("./Span\ [blog__shape-item].png");
+    /* background-image: url(./Span.png); */
     background-size: cover;
     width: 800px;
-    border: 2px solid black;
+    margin-left: -180px;
+    /* margin-top: -100px; */
+    /* border: 2px solid black; */
 }
 .firstpara{
         margin-left: 50px;
@@ -85,4 +91,54 @@
 }
 .fontsizeofpara{
     font-size: 20px;
+}
+.paracontent{
+    /* margin-top: -100px; */
+    background-image: url("./Span.png");
+    background-size: cover;
+}
+.thirddiv{
+    height: 600px;
+    background-image: url("./Rectangle\ 3.png");
+    background-size: cover;
+}
+.bgsquare img{
+    position: absolute;
+    z-index: 1;
+    margin-top: -117px;
+}
+.ourtraining{
+    /* margin-bottom: -1px; */
+    padding-top: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thirddivpara{
+    font-size: 20px;
+    margin-bottom: -51px;
+    margin-top: 24px;
+}
+.thirddivpara2{
+    font-size: 20px;
+    /* margin-bottom: -51px; */
+    padding-left: 608px;
+    margin-top: 48px;
+}
+/* .card-text{
+    padding-left: 50px;
+} */
+ /* .card{
+    padding-left: 40px;
+ } */
+
+ /* .card{
+    border-radius: 0px;
+ } */
+  .card {
+  border-radius: 0 !important;
+}
+
+.card img {
+  border-radius: 0 !important;
 }
